@@ -1,4 +1,4 @@
-# Data CLeaning and Preprocessing
+# Data Cleaning and Preprocessing
 
 # Titanic Dataset:
 This document outlines the complete data cleaning and preprocessing steps applied to the Titanic dataset to prepare it for machine learning. The raw dataset contained 891 passenger records with 12 features, including mixed data types and missing values. Through systematic processing, we've transformed it into a clean, analysis-ready dataset suitable for predictive modeling.
